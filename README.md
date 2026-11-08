@@ -20,4 +20,4 @@ This repository contains release assets, the update feed and distribution docume
 
 `https://github.com/astaxie/heyaer/releases/latest/download/appcast.xml`
 
-The feed becomes available when the first update-enabled release is published.
+The feed is served by the latest published release.
