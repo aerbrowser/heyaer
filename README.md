@@ -1,10 +1,10 @@
-# Aer Releases
+# heyaer
 
 Official distribution repository for **Aer**, a browser for Apple Silicon Macs running macOS 13 or later.
 
 ## Downloads
 
-Download the `.dmg` installer from [Releases](https://github.com/astaxie/Aer-Releases/releases).
+Download the `.dmg` installer from [Releases](https://github.com/astaxie/heyaer/releases).
 
 Releases are signed with Apple Developer ID and notarized by Apple before publication. SHA-256 checksums accompany each release.
 
@@ -18,6 +18,6 @@ This repository contains release assets, the update feed and distribution docume
 
 ## Feed
 
-`https://github.com/astaxie/Aer-Releases/releases/latest/download/appcast.xml`
+`https://github.com/astaxie/heyaer/releases/latest/download/appcast.xml`
 
 The feed becomes available when the first update-enabled release is published.
