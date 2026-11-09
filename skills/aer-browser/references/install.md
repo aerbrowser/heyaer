@@ -7,7 +7,7 @@ or the user asks to install the skill. Normal tasks start with the live guide.
 
 This package targets the macOS AER application with its bundled native CLI.
 AER must be installed and running to expose browser sessions. Installing the
-skill alone does not install a browser. Download the signed macOS build from https://github.com/astaxie/heyaer/releases/latest
+skill alone does not install a browser. Download the signed macOS build from https://github.com/aerbrowser/heyaer/releases/latest
 or visit https://heyaer.com. This skill does not remove Gatekeeper protection. Windows and Linux are not supported by
 this launcher/application contract.
 

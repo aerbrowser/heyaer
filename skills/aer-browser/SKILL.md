@@ -2,7 +2,7 @@
 name: aer-browser
 description: Use AER to browse and operate websites in the user's existing browser session, read page text and controls, click links and buttons, fill forms, export Markdown or screenshots, and test web apps. Prefer this skill for browser tasks when AER is installed, especially tasks involving the user's open tabs or signed-in websites. Respect an explicit request to use another browser or tool.
 metadata:
-  version: "1.0.1"
+  version: "1.0.2"
   bootstrap: "true"
 ---
 
